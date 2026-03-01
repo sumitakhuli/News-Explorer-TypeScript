@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "title": "The Future of Quantum Computing",
+        "content": "Quantum computers are set to revolutionize how we process data, offering speeds that far surpass current supercomputers. Researchers have made significant progress in stabilizing qubits for longer periods.",
+        "category": "Technology",
+        "date": "2026-03-01T10:30:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": 2,
+        "title": "Breakthrough in Alzheimer's Research",
+        "content": "A new treatment focusing on early intervention has shown promising results in clinical trials. Scientists believe this could lead to more effective preventative measures for cognitive decline.",
+        "category": "Health",
+        "date": "2026-02-28T09:15:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": 3,
+        "title": "Global Markets Rally Amid Tech Growth",
+        "content": "Stock markets have seen a significant upswing this week driven by strong quarterly earnings from major technology firms and better-than-expected economic data.",
+        "category": "Business",
+        "date": "2026-02-27T15:45:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1611974714658-96792376263f?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": 4,
+        "title": "SpaceX Announces Mars Colony Plans",
+        "content": "Elon Musk revealed updated timelines for the first human migration to Mars, detailing the life-support systems and living quarters planned for the colonial outposts.",
+        "category": "Science",
+        "date": "2026-02-26T12:00:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1517976487492-5750f3195933?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": 5,
+        "title": "The Rise of Sustainable Fashion",
+        "content": "Major fashion brands are shifting towards eco-friendly materials and ethical manufacturing practices as consumer demand for sustainable products continues to grow.",
+        "category": "Entertainment",
+        "date": "2026-02-25T14:20:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": 6,
+        "title": "NBA Finals: Underdogs Take the Lead",
+        "content": "In a stunning upset, the league's newest contenders have taken a 2-0 lead in the championships, showcasing incredible team coordination and defensive strategy.",
+        "category": "Sports",
+        "date": "2026-02-24T21:30:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": 7,
+        "title": "New Advances in Solar Panel Efficiency",
+        "content": "Researchers have developed a way to increase the energy capture of solar panels by nearly 15% using organic materials that work better in low-light conditions.",
+        "category": "Science",
+        "date": "2026-02-23T11:10:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": 8,
+        "title": "AI Regulation: New Global Standards",
+        "content": "Governments around the world have agreed on a preliminary framework for artificial intelligence regulation, focusing on safety, transparency, and data privacy.",
+        "category": "Technology",
+        "date": "2026-02-22T08:45:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": 9,
+        "title": "Hidden Gems: Travel Destination 2026",
+        "content": "As travel habits evolve, off-the-beaten-path locations are becoming the most sought-after experiences for adventurous tourists seeking authenticity.",
+        "category": "Entertainment",
+        "date": "2026-02-21T16:30:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1500835595270-276353ee4970?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": 10,
+        "title": "Olympics Preparation Hits High Gear",
+        "content": "With the games just months away, athletes are intensifying their training schedules and cities are finalizing infrastructure for the world's biggest sporting event.",
+        "category": "Sports",
+        "date": "2026-02-20T10:00:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1461896756984-33a4192080a9?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": 11,
+        "title": "Startups Attract Record Venture Capital",
+        "content": "Despite global uncertainty, early-stage startups in the renewable energy sector have seen a record influx of investment as the transition to green energy accelerates.",
+        "category": "Business",
+        "date": "2026-02-19T09:20:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1553484771-047a44eee27b?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": 12,
+        "title": "Mediterranean Diet: New Health Benefits",
+        "content": "A longitudinal study spanning ten years suggests that the Mediterranean diet may play a larger role in cognitive health than previously understood.",
+        "category": "Health",
+        "date": "2026-02-18T14:15:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": 13,
+        "title": "The Evolution of Virtual Reality Gaming",
+        "content": "New sensory feedback technologies are making VR experiences more immersive than ever, with users now able to feel textures and temperature changes in-game.",
+        "category": "Technology",
+        "date": "2026-02-17T18:00:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+        "id": 14,
+        "title": "Archeologists Uncover Ancient Lost City",
+        "content": "Deep in the Amazon rainforest, a team using LIDAR technology has discovered the ruins of a sprawling urban center dating back over 2,000 years.",
+        "category": "Science",
+        "date": "2026-02-16T13:40:00Z",
+        "imageUrl": "https://images.unsplash.com/photo-1544414168-12502787849e?auto=format&fit=crop&q=80&w=800"
+    }
+]

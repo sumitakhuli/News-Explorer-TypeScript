@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NewsHub | Premium News Explorer</title>
+    <meta name="description" content="Explore the latest news stories from around the world with our premium, curated experience.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="app-header">
+        <div class="logo">
+            <span class="logo-icon">📰</span>
+            <h1>NewsHub</h1>
+        </div>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search news stories..." autocomplete="off">
+            <span class="search-icon">🔍</span>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="filters-section">
+            <div id="categoryTags" class="tags-container">
+                <button class="tag active" data-category="All">All</button>
+                <button class="tag" data-category="Technology">Technology</button>
+                <button class="tag" data-category="Health">Health</button>
+                <button class="tag" data-category="Sports">Sports</button>
+                <button class="tag" data-category="Business">Business</button>
+                <button class="tag" data-category="Science">Science</button>
+                <button class="tag" data-category="Entertainment">Entertainment</button>
+            </div>
+        </section>
+
+        <section class="news-grid-section">
+            <div id="newsGrid" class="news-grid">
+                <!-- Data will be injected here -->
+            </div>
+            <div class="load-more-container">
+                <button id="showMoreBtn" class="premium-btn">Show More</button>
+            </div>
+        </section>
+    </main>
+
+    <footer class="app-footer">
+        <p>&copy; 2026 NewsHub Explorer. All rights reserved.</p>
+    </footer>
+
+    <script type="module" src="main.js"></script>
+</body>
+</html>

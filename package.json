@@ -1,0 +1,11 @@
+{
+    "name": "news-explorer-typescript",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "tsc",
+        "start": "npx serve ."
+    },
+    "devDependencies": {
+        "typescript": "^5.0.0"
+    }
+}
